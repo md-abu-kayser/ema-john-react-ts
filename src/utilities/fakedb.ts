@@ -1,10 +1,8 @@
 import { ShoppingCart } from "../types";
 
-// use local storage to manage cart data
 export const addToDb = (id: string): void => {
   let shoppingCart: ShoppingCart = getShoppingCart();
 
-  // add quantity
   const quantity = shoppingCart[id];
   if (!quantity) {
     shoppingCart[id] = 1;
@@ -26,7 +24,6 @@ export const removeFromDb = (id: string): void => {
 export const getShoppingCart = (): ShoppingCart => {
   let shoppingCart: ShoppingCart = {};
 
-  // get the shopping cart from local storage
   const storedCart = localStorage.getItem("shopping-cart");
   if (storedCart) {
     shoppingCart = JSON.parse(storedCart);

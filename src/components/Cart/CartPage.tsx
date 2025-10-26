@@ -10,14 +10,12 @@ const CartPage: React.FC = () => {
   const [products, setProducts] = useState<Product[]>([]);
 
   useEffect(() => {
-    // Load products from JSON file
     fetch("products.json")
       .then((res) => res.json())
       .then((data: Product[]) => setProducts(data));
   }, []);
 
   useEffect(() => {
-    // Load cart from localStorage
     const storedCart = getShoppingCart();
     const savedCart: CartItem[] = [];
 
@@ -49,7 +47,6 @@ const CartPage: React.FC = () => {
   const grandTotal = total + shipping + tax;
 
   const handleRemoveItem = (id: string) => {
-    // TODO: Implement remove item functionality
     console.log("Remove item:", id);
   };
 
@@ -100,7 +97,7 @@ const CartPage: React.FC = () => {
                     <div className="ml-4 flex-grow">
                       <h3 className="font-semibold">{item.name}</h3>
                       <p className="text-gray-600">
-                        ${item.price} × {item.quantity}
+                        ${item.price} x {item.quantity}
                       </p>
                     </div>
                     <div className="text-right">
