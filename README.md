@@ -22,23 +22,23 @@ Ema John is a polished, production-ready React e-commerce frontend showcasing a 
 - Contributing
 - License and credits
 
-### Project status
+## Project status
 
 - Stable demo frontend with fully populated static product data in the [public](public/products.json) and [build](build/products.json) folders.
 - Production-ready build produced by `react-scripts build` is in [build/](build/index.html).
 
-### Demo and preview
+## Demo and preview
 
 - Local dev: run the app with the commands below to preview in your browser.
 - Static preview: the production build lives in [build/index.html](build/index.html). Use any static host (GitHub Pages, Netlify, Vercel) to serve [build/].
 
-### Tech stack
+## Tech stack
 
 - React 18 + TypeScript - core UI and types ([src/index.tsx](src/index.tsx), [src/App.tsx](src/App.tsx)).
 - Tailwind CSS - styling and responsive utilities ([tailwind.config.js](tailwind.config.js), [src/index.css](src/index.css)).
 - Create React App build and dev tooling (see [package.json](package.json)).
 
-### Quick start
+## Quick start
 
 1. Install dependencies
    npm install
