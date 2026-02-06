@@ -1,4 +1,4 @@
-# Ema John | Modern E-commerce with React + TypeScript + Tailwind
+# Ema John - React + TypeScript E-commerce Frontend
 
 Ema John is a polished, production-ready React e-commerce frontend showcasing a modern component architecture, TypeScript support, Tailwind CSS styling, and a static product catalog for demo and integration purposes. This repository is an ideal reference or starter kit for building a performant storefront with clear separation of concerns and ready-to-deploy static build output.
 
