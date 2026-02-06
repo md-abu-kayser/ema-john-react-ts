@@ -40,10 +40,17 @@ Ema John is a polished, production-ready React e-commerce frontend showcasing a 
 
 ## Quick start
 
-1. Install dependencies
+1. **Install dependencies:**
+
+```bash
    npm install
-2. Run in development
+```
+
+2. **Run in development:**
+
+```bash
    npm start
+```
 
 - Opens http://localhost:3000 by default (react-scripts)
 
