@@ -54,10 +54,21 @@ Ema John is a polished, production-ready React e-commerce frontend showcasing a 
 
 - Opens http://localhost:3000 by default (react-scripts)
 
-3. Run tests
-   npm test
-4. Create a production build
-   npm run build
+3. **Run tests:**
+
+---
+
+npm test
+
+---
+
+4. **Create a production build:**
+
+---
+
+npm run build
+
+---
 
 - Output is written to the build/ folder (see build/index.html)
 
@@ -114,9 +125,8 @@ Ema John is a polished, production-ready React e-commerce frontend showcasing a 
 
 ### Contact and Maintainer
 
-**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
-**Name:** Md Abu Kayser - Full-Stack Engineer
-
+- **Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)
+- **Name:** Md Abu Kayser - Full-Stack Engineer
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
 - **Project:** _ema-john-back-end_
