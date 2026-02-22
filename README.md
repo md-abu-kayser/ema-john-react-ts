@@ -12,14 +12,6 @@
 <!-- Styling / PostCSS -->
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs/)
-[![PostCSS](https://img.shields.io/badge/PostCSS-efefef?logo=postcss&logoColor=black)](https://postcss.org/)
-[![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?logo=tailwindcss&logoColor=white)](https://daisyui.com/)
-
-<!-- Fonts & Icons -->
-
-[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?logo=google&logoColor=white)](https://fonts.google.com/)
-[![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?logo=fontawesome&logoColor=white)](https://fontawesome.com/)
-[![Heroicons](https://img.shields.io/badge/Heroicons-0EA5E9?logo=heroicons&logoColor=white)](https://heroicons.com/)
 
 <!-- Infra & Runtime -->
 
@@ -46,15 +38,16 @@
 - HTML (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/HTML
 - CSS (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/CSS
 - Tailwind CSS docs: https://tailwindcss.com/docs/
-- PostCSS docs / postcss.config: https://postcss.org/ (see also Tailwind PostCSS install guide)
-- daisyUI docs: https://daisyui.com/
-- Font Awesome docs: https://fontawesome.com/
-- Heroicons docs: https://heroicons.com/
 - Node.js docs: https://nodejs.org/
 - Express docs: https://expressjs.com/
 - JavaScript (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - ECMAScript (spec, ECMA-262) docs: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 - TypeScript docs: https://www.typescriptlang.org/docs/
+- Jest docs: https://jestjs.io/
+- ESLint docs: https://eslint.org/docs/latest/
+- Prettier docs: https://prettier.io/docs/
+
+---
 
 Ema John is a polished, production-ready React e-commerce frontend showcasing a modern component architecture, TypeScript support, Tailwind CSS styling, and a static product catalog for demo and integration purposes. This repository is an ideal reference or starter kit for building a performant storefront with clear separation of concerns and ready-to-deploy static build output.
 
