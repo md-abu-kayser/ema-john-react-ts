@@ -32,6 +32,11 @@
 [![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 
+<!-- Linting & Formatting -->
+
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+[![Prettier](https://img.shields.io/badge/Prettier-2B3A42?logo=prettier&logoColor=white)](https://prettier.io/docs/)
+
 Ema John is a polished, production-ready React e-commerce frontend showcasing a modern component architecture, TypeScript support, Tailwind CSS styling, and a static product catalog for demo and integration purposes. This repository is an ideal reference or starter kit for building a performant storefront with clear separation of concerns and ready-to-deploy static build output.
 
 ## Key highlights
