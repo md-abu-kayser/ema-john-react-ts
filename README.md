@@ -41,6 +41,21 @@
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
 [![Prettier](https://img.shields.io/badge/Prettier-2B3A42?logo=prettier&logoColor=white)](https://prettier.io/docs/)
 
+## Plain docs links
+
+- HTML (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/HTML
+- CSS (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+- Tailwind CSS docs: https://tailwindcss.com/docs/
+- PostCSS docs / postcss.config: https://postcss.org/ (see also Tailwind PostCSS install guide)
+- daisyUI docs: https://daisyui.com/
+- Font Awesome docs: https://fontawesome.com/
+- Heroicons docs: https://heroicons.com/
+- Node.js docs: https://nodejs.org/
+- Express docs: https://expressjs.com/
+- JavaScript (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- ECMAScript (spec, ECMA-262) docs: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+- TypeScript docs: https://www.typescriptlang.org/docs/
+
 Ema John is a polished, production-ready React e-commerce frontend showcasing a modern component architecture, TypeScript support, Tailwind CSS styling, and a static product catalog for demo and integration purposes. This repository is an ideal reference or starter kit for building a performant storefront with clear separation of concerns and ready-to-deploy static build output.
 
 ## Key highlights
